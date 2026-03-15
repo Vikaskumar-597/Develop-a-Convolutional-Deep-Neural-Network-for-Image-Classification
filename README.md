@@ -105,18 +105,16 @@ train_model(model, train_loader)
 ### OUTPUT
 
 ## Training Loss per Epoch
-
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/SXPKhWBW/D2.png" alt="D2" border="0"></a>
 
 ## Confusion Matrix
-
-
+<a href="https://ibb.co/C3DNBW6X"><img src="https://i.ibb.co/tTFkB3zN/D.png" alt="D" border="0"></a>
 
 ## Classification Report
-Include classification report here
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/r1Tv4dT/D3.png" alt="D3" border="0"></a>
 
-### New Sample Data Prediction
-Include your sample input and output here
+## New Sample Data Prediction
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/gbRRNQ2T/D1.png" alt="D1" border="0"></a>
 
 ## RESULT
-Include your result here
+The Convolutional Neural Network (CNN) model was successfully trained and achieved good classification performance on the given image dataset.
